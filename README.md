@@ -11,3 +11,6 @@ if you wanna chang music open the "q2a-sarki.php" and change line 44
 you put only the last code of youtube links </br>
 if you wanna add this: https://www.youtube.com/watch?v=SXiSVQZLje8 </br>
 only add this -> SXiSVQZLje8 
+
+<br>
+I edit this plugin -> https://github.com/bluegenel/Q2A-quote-of-the-day
