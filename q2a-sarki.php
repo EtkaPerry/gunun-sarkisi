@@ -43,7 +43,7 @@ class q2a_quote {
     function output_widget($region, $place, $themeobject, $template, $request, $qa_content) {
         $sarki = "XjwZAa2EjKA";
         $themeobject->output('<div align="left">');
-        echo 'Gunun Videosu: </br> <iframe width="215" height="190" src="https://www.youtube.com/embed/'.$sarki.'">
+        echo 'Song of the Day: </br> <iframe width="215" height="190" src="https://www.youtube.com/embed/'.$sarki.'">
 </iframe>';
         $themeobject->output('</div>');
     }
