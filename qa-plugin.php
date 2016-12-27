@@ -19,7 +19,7 @@
 	}
 
 
-	qa_register_plugin_module('widget', 'q2a-sarki.php', 'q2a_quote', 'Song of the Day');
+	qa_register_plugin_module('widget', 'q2a-sarki.php', 'q2a_sarki', 'Song of the Day');
 	
 
 /*
