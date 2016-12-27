@@ -1,6 +1,6 @@
 <?php
 
-class q2a_quote {
+class q2a_sarki {
 
     function allow_template($template) {
         $allow = false;
