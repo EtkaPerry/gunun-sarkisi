@@ -4,7 +4,7 @@ Hi
 You should add this to sidebar </br>
 or you can change width and add anywhere
 
-if you wanna chang music open the "q2a-sarki.php" and change line 44 
+if you wanna change music open the "q2a-sarki.php" and change line 44 
 </br></br></br>
 "Attention"
 
